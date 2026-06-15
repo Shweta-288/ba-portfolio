@@ -1,0 +1,51 @@
+product_id,product_name,category,sub_category,unit_price_gbp,stock_qty,supplier,rating_avg,review_count,is_active
+P001,Wireless Earbuds,Electronics,Audio,89.99,145,TechSound UK,4.3,234,1
+P002,Winter Jacket,Clothing,Outerwear,75.00,89,FashionForward,4.1,156,1
+P003,Coffee Machine,Home & Garden,Kitchen,199.99,62,HomeEssentials,4.6,312,1
+P004,Python for Data Analysis,Books,Technology,29.99,200,BookWorld,4.8,89,1
+P005,Skincare Set,Beauty,Skincare,65.00,178,BeautyPlus,4.2,267,1
+P006,Smart Watch,Electronics,Wearables,349.99,43,TechSound UK,4.5,445,1
+P007,Summer Dress,Clothing,Dresses,45.00,234,FashionForward,4.0,198,1
+P008,Air Purifier,Home & Garden,Appliances,289.99,38,HomeEssentials,4.7,123,1
+P009,Laptop Stand,Electronics,Accessories,49.99,167,TechSound UK,4.4,334,1
+P010,Perfume,Beauty,Fragrance,78.50,94,BeautyPlus,4.3,189,1
+P011,Tablet,Electronics,Computing,449.99,67,TechSound UK,4.6,567,1
+P012,Formal Shirt,Clothing,Tops,39.99,312,FashionForward,3.9,145,1
+P013,Robot Vacuum,Home & Garden,Cleaning,399.99,29,HomeEssentials,4.5,278,1
+P014,Business Analysis Fundamentals,Books,Business,24.99,145,BookWorld,4.7,67,1
+P015,Bluetooth Speaker,Electronics,Audio,79.99,189,TechSound UK,4.2,389,1
+P016,4K Monitor,Electronics,Computing,599.99,34,TechSound UK,4.8,212,1
+P017,Casual Trainers,Clothing,Footwear,85.00,156,FashionForward,4.1,234,1
+P018,Bed Linen Set,Home & Garden,Bedroom,59.99,78,HomeEssentials,4.4,156,1
+P019,Mechanical Keyboard,Electronics,Accessories,149.99,89,TechSound UK,4.6,445,1
+P020,Hair Dryer,Beauty,Haircare,129.99,112,BeautyPlus,4.3,289,1
+P021,Gym Wear Set,Clothing,Sportswear,55.00,267,FashionForward,4.2,178,1
+P022,Smart Home Hub,Electronics,Smart Home,199.99,56,TechSound UK,4.4,234,1
+P023,Agile Project Management,Books,Business,32.99,89,BookWorld,4.5,56,1
+P024,Stand Mixer,Home & Garden,Kitchen,249.99,44,HomeEssentials,4.7,345,1
+P025,Wool Coat,Clothing,Outerwear,199.99,67,FashionForward,4.3,123,1
+P026,Noise Cancelling Headphones,Electronics,Audio,299.99,78,TechSound UK,4.7,512,1
+P027,Makeup Kit,Beauty,Makeup,89.99,134,BeautyPlus,4.1,267,1
+P028,Gaming Console,Electronics,Gaming,499.99,45,TechSound UK,4.9,678,1
+P029,Smart Thermostat,Home & Garden,Smart Home,179.99,67,HomeEssentials,4.5,189,1
+P030,Down Jacket,Clothing,Outerwear,165.00,89,FashionForward,4.4,156,1
+P031,Mirrorless Camera,Electronics,Photography,899.99,23,TechSound UK,4.8,234,1
+P032,SQL in 30 Days,Books,Technology,19.99,267,BookWorld,4.6,145,1
+P033,Sofa Cover,Home & Garden,Living Room,34.99,189,HomeEssentials,4.0,89,1
+P034,"Smart TV 55""",Electronics,TV & Video,699.99,38,TechSound UK,4.7,456,1
+P035,T-Shirt Pack,Clothing,Tops,19.99,456,FashionForward,4.0,312,1
+P036,Lip Gloss Set,Beauty,Makeup,18.99,234,BeautyPlus,3.8,178,1
+P037,Self Help Book,Books,Lifestyle,14.99,312,BookWorld,4.2,89,1
+P038,Socks Pack,Clothing,Accessories,9.99,678,FashionForward,3.9,234,1
+P039,Plant Pot Set,Home & Garden,Garden,22.99,145,HomeEssentials,4.3,156,1
+P040,Face Mask Pack,Beauty,Skincare,8.99,389,BeautyPlus,4.0,267,1
+P041,Scarf,Clothing,Accessories,24.99,234,FashionForward,4.1,123,1
+P042,Fiction Novel,Books,Literature,12.99,445,BookWorld,4.4,178,1
+P043,Phone Case,Electronics,Accessories,14.99,567,TechSound UK,3.7,389,0
+P044,Candle Set,Home & Garden,Decor,19.99,267,HomeEssentials,4.5,234,1
+P045,Leggings,Clothing,Sportswear,29.99,345,FashionForward,4.3,189,1
+P046,Cookery Book,Books,Lifestyle,28.99,178,BookWorld,4.6,145,1
+P047,Nail Polish Set,Beauty,Nails,12.99,312,BeautyPlus,3.9,156,1
+P048,Vest Top,Clothing,Tops,12.99,456,FashionForward,3.8,123,1
+P049,USB Hub,Electronics,Accessories,39.99,234,TechSound UK,4.2,267,1
+P050,Picture Frame Set,Home & Garden,Decor,24.99,145,HomeEssentials,4.1,98,1

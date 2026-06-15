@@ -1,0 +1,51 @@
+order_id,customer_id,order_date,order_status,product_category,product_name,quantity,unit_price_gbp,discount_pct,total_amount_gbp,payment_method,channel
+ORD001,C001,2024-11-20,Completed,Electronics,Wireless Earbuds,1,89.99,10,80.99,Credit Card,Mobile App
+ORD002,C002,2025-03-01,Completed,Clothing,Winter Jacket,2,75.00,0,150.00,PayPal,Website
+ORD003,C004,2024-12-10,Completed,Home & Garden,Coffee Machine,1,199.99,5,189.99,Credit Card,Website
+ORD004,C006,2024-08-22,Completed,Books,Python for Data Analysis,3,29.99,0,89.97,Debit Card,Mobile App
+ORD005,C007,2025-02-14,Completed,Beauty,Skincare Set,1,65.00,15,55.25,Credit Card,Website
+ORD006,C008,2025-04-01,Completed,Electronics,Smart Watch,1,349.99,10,314.99,Credit Card,Mobile App
+ORD007,C010,2024-07-30,Completed,Clothing,Summer Dress,2,45.00,0,90.00,PayPal,Website
+ORD008,C011,2025-01-05,Completed,Home & Garden,Air Purifier,1,289.99,5,275.49,Credit Card,Website
+ORD009,C012,2025-03-20,Completed,Electronics,Laptop Stand,2,49.99,0,99.98,Debit Card,Mobile App
+ORD010,C015,2025-01-28,Completed,Beauty,Perfume,1,78.50,0,78.50,Credit Card,Website
+ORD011,C017,2025-04-10,Completed,Electronics,Tablet,1,449.99,15,382.49,Credit Card,Mobile App
+ORD012,C018,2024-09-15,Completed,Clothing,Formal Shirt,3,39.99,10,107.97,PayPal,Website
+ORD013,C020,2025-02-28,Completed,Home & Garden,Robot Vacuum,1,399.99,20,319.99,Credit Card,Mobile App
+ORD014,C021,2024-10-05,Completed,Books,Business Analysis Fundamentals,2,24.99,0,49.98,Debit Card,Website
+ORD015,C022,2024-11-15,Completed,Electronics,Bluetooth Speaker,1,79.99,10,71.99,Credit Card,Mobile App
+ORD016,C024,2025-03-30,Completed,Electronics,4K Monitor,1,599.99,5,569.99,Credit Card,Website
+ORD017,C026,2024-08-10,Completed,Clothing,Casual Trainers,1,85.00,0,85.00,PayPal,Mobile App
+ORD018,C027,2025-01-20,Completed,Home & Garden,Bed Linen Set,2,59.99,0,119.98,Credit Card,Website
+ORD019,C028,2025-04-05,Completed,Electronics,Mechanical Keyboard,1,149.99,10,134.99,Debit Card,Mobile App
+ORD020,C030,2025-02-05,Completed,Beauty,Hair Dryer,1,129.99,0,129.99,Credit Card,Website
+ORD021,C031,2024-07-25,Completed,Clothing,Gym Wear Set,1,55.00,10,49.50,PayPal,Mobile App
+ORD022,C033,2025-03-10,Completed,Electronics,Smart Home Hub,1,199.99,15,169.99,Credit Card,Website
+ORD023,C034,2024-09-01,Completed,Books,Agile Project Management,1,32.99,0,32.99,Debit Card,Website
+ORD024,C036,2025-02-20,Completed,Home & Garden,Stand Mixer,1,249.99,10,224.99,Credit Card,Mobile App
+ORD025,C038,2024-10-20,Completed,Clothing,Wool Coat,1,199.99,5,189.99,Credit Card,Website
+ORD026,C039,2025-01-10,Completed,Electronics,Noise Cancelling Headphones,1,299.99,20,239.99,Credit Card,Mobile App
+ORD027,C041,2024-08-05,Completed,Beauty,Makeup Kit,1,89.99,0,89.99,PayPal,Website
+ORD028,C042,2025-04-15,Completed,Electronics,Gaming Console,1,499.99,0,499.99,Credit Card,Mobile App
+ORD029,C044,2025-01-25,Completed,Home & Garden,Smart Thermostat,1,179.99,10,161.99,Debit Card,Website
+ORD030,C045,2024-11-30,Completed,Clothing,Down Jacket,1,165.00,15,140.25,Credit Card,Mobile App
+ORD031,C047,2025-03-25,Completed,Electronics,Mirrorless Camera,1,899.99,10,809.99,Credit Card,Website
+ORD032,C048,2024-07-10,Completed,Books,SQL in 30 Days,2,19.99,0,39.98,Debit Card,Website
+ORD033,C049,2025-02-10,Completed,Home & Garden,Sofa Cover,3,34.99,0,104.97,PayPal,Mobile App
+ORD034,C050,2025-04-08,Completed,Electronics,Smart TV 55",1,699.99,15,594.99,Credit Card,Website
+ORD035,C003,2023-09-15,Completed,Clothing,T-Shirt Pack,2,19.99,0,39.98,PayPal,Website
+ORD036,C005,2023-04-10,Completed,Beauty,Lip Gloss Set,1,18.99,0,18.99,Debit Card,Mobile App
+ORD037,C009,2023-05-20,Completed,Books,Self Help Book,1,14.99,0,14.99,Credit Card,Website
+ORD038,C013,2023-05-15,Completed,Clothing,Socks Pack,1,9.99,0,9.99,Debit Card,Website
+ORD039,C016,2023-08-20,Completed,Home & Garden,Plant Pot Set,2,22.99,0,45.98,PayPal,Website
+ORD040,C019,2023-07-30,Completed,Beauty,Face Mask Pack,3,8.99,0,26.97,Debit Card,Mobile App
+ORD041,C025,2023-10-15,Completed,Clothing,Scarf,1,24.99,0,24.99,Credit Card,Website
+ORD042,C029,2023-03-15,Completed,Books,Fiction Novel,2,12.99,0,25.98,PayPal,Website
+ORD043,C032,2024-01-10,Completed,Electronics,Phone Case,2,14.99,10,26.98,Debit Card,Mobile App
+ORD044,C035,2023-07-10,Completed,Home & Garden,Candle Set,1,19.99,0,19.99,Credit Card,Website
+ORD045,C037,2024-06-30,Completed,Clothing,Leggings,2,29.99,0,59.98,PayPal,Mobile App
+ORD046,C040,2024-03-15,Completed,Books,Cookery Book,1,28.99,0,28.99,Debit Card,Website
+ORD047,C043,2023-06-15,Completed,Beauty,Nail Polish Set,2,12.99,0,25.98,Credit Card,Mobile App
+ORD048,C046,2023-05-10,Completed,Clothing,Vest Top,3,12.99,0,38.97,PayPal,Website
+ORD049,C014,2024-06-10,Completed,Electronics,USB Hub,1,39.99,0,39.99,Credit Card,Mobile App
+ORD050,C023,2024-05-20,Completed,Home & Garden,Picture Frame Set,2,24.99,5,47.48,Debit Card,Website

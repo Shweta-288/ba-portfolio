@@ -2,7 +2,7 @@
 
 **Technical Business Analyst · BCS Certified · London, UK**
 
-[![Notion Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=flat-square&logo=notion)]([https://rattle-dogwood-96b.notion.site](https://rattle-dogwood-96b.notion.site/Portfolio-Shweta-Goyal-Technical-BA-3679d574c24c80369bb2e15ae5a862a6)
+[![Portfolio](https://img.shields.io/badge/Full%20Portfolio-Notion-black?style=flat-square&logo=notion)](https://rattle-dogwood-96b.notion.site/Portfolio-Shweta-Goyal-Technical-BA-3679d574c24c80369bb2e15ae5a862a6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/shweta-g-goyal)
 [![Email](https://img.shields.io/badge/Email-goyal.shweta28@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:goyal.shweta28@gmail.com)
 

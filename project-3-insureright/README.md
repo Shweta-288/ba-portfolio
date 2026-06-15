@@ -45,4 +45,4 @@ The board didn't want a requirements document — they wanted to know if the inv
 
 ## Full Case Study
 
-[View on Notion →](https://rattle-dogwood-96b.notion.site)
+[View on Notion →](https://rattle-dogwood-96b.notion.site/Portfolio-Shweta-Goyal-Technical-BA-3679d574c24c80369bb2e15ae5a862a6)

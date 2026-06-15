@@ -46,4 +46,4 @@ The RFM segmentation model split active customers into five groups: Champions, L
 ## Full Case Study
 
 Full write-up with process maps, elicitation approach, challenges, and outcomes is on the Notion portfolio:
-[View on Notion →](https://rattle-dogwood-96b.notion.site)
+[View on Notion →](https://rattle-dogwood-96b.notion.site/Portfolio-Shweta-Goyal-Technical-BA-3679d574c24c80369bb2e15ae5a862a6)

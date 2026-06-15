@@ -2,8 +2,8 @@
 
 **Technical Business Analyst · BCS Certified · London, UK**
 
-[![Notion Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=flat-square&logo=notion)](https://rattle-dogwood-96b.notion.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/shweta-goyal-161b88179)
+[![Notion Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=flat-square&logo=notion)]([https://rattle-dogwood-96b.notion.site](https://rattle-dogwood-96b.notion.site/Portfolio-Shweta-Goyal-Technical-BA-3679d574c24c80369bb2e15ae5a862a6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/shweta-g-goyal)
 [![Email](https://img.shields.io/badge/Email-goyal.shweta28@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:goyal.shweta28@gmail.com)
 
 ---
@@ -12,7 +12,7 @@ I'm a BCS-certified Technical Business Analyst based in London. My background is
 
 What makes my work different is the technical depth. I can read an API spec, understand what a requirement means for a mobile architecture, and have that conversation with an engineering team without needing a translator. This portfolio is where I demonstrate that with real artefacts, real analysis, and real tools.
 
-**Full portfolio with all artefacts:** [shweta-goyal BA Portfolio](https://rattle-dogwood-96b.notion.site)
+**Full portfolio with all artefacts:** [shweta-goyal BA Portfolio](https://rattle-dogwood-96b.notion.site/Portfolio-Shweta-Goyal-Technical-BA-3679d574c24c80369bb2e15ae5a862a6)
 
 ---
 

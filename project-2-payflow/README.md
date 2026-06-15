@@ -40,4 +40,4 @@ I also did a structured wireframe review in Figma and found 6 requirement gaps t
 
 ## Full Case Study
 
-[View on Notion →](https://rattle-dogwood-96b.notion.site)
+[View on Notion →](https://rattle-dogwood-96b.notion.site/Portfolio-Shweta-Goyal-Technical-BA-3679d574c24c80369bb2e15ae5a862a6)
